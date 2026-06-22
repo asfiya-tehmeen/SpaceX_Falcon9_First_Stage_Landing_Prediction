@@ -6,6 +6,16 @@ A end-to-end data science project that collects, processes, visualizes, and mode
 
 ---
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-yellow?logo=scikit-learn)
+![Folium](https://img.shields.io/badge/Folium-Maps-green)
+![Pandas](https://img.shields.io/badge/Pandas-Data-lightblue?logo=pandas)
+
+---
+
 ## Repository Structure
 
 ```
@@ -169,15 +179,6 @@ jupyter notebook
 
 ---
 
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-yellow?logo=scikit-learn)
-![Folium](https://img.shields.io/badge/Folium-Maps-green)
-![Pandas](https://img.shields.io/badge/Pandas-Data-lightblue?logo=pandas)
-
----
 
 ## Acknowledgements
 
